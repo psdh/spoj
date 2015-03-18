@@ -1,0 +1,6 @@
+floating point variables  :http://introcs.cs.princeton.edu/java/91float/
+	http://www.cygnus-software.com/papers/comparingfloats/comparingfloats.htm
+
+	floating point exception 
+
+http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf

@@ -1,0 +1,4 @@
+make:
+
+prime1.cpp:
+g++ prime1.cpp -o prime1
